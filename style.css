@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --cor-fund:#c1ff72;
+    --cor-do-texto:#000000;
+}
+    body{
+        background-color: var(--cor-fund);
+        color: var(--cor-do-texto);
+    }
+            .cabecalho-titulo{
+                font-size: 36px;
+                padding: 25px 0;
+                text-transform: uppercase;
+            }
+                .secao{
+                    background-image:url('uma-fotografia-de-vaca-fofa-e-adoravel_727939-12128.avif') ;
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    width: 1000px;
+                    height: 1000px;
+                    text-align: center;
+
+                }
+    .texto{
+     font-size: 30px;
+     padding-top: 50px;
+            }
+
+            
+        
+    
+    
+
